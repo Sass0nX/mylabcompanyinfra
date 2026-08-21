@@ -1,2 +1,5 @@
 ### Add to the .kube the context fot EKS login
 aws eks update-kubeconfig --region eu-central-1 --name eks_cluster
+
+
+https://ssoins-6987a469fe14a558.portal.eu-central-1.app.aws
